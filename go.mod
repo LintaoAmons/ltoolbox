@@ -18,7 +18,7 @@ require (
 	github.com/robotn/xgb v0.0.0-20190912153532-2cb92d044934 // indirect
 	github.com/robotn/xgbutil v0.0.0-20190912154524-c861d6f87770 // indirect
 	github.com/russross/blackfriday/v2 v2.1.0 // indirect
-	github.com/sashabaranov/go-openai v1.9.5 // indirect
+	github.com/sashabaranov/go-openai v1.10.1 // indirect
 	github.com/shirou/gopsutil v3.21.10+incompatible // indirect
 	github.com/spf13/cobra v1.7.0 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
